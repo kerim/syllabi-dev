@@ -3,7 +3,6 @@ layout: default
 title: 文化理論專題 Seminar on Cultural Theories
 parent: 研究所 gradaute courses
 ---
----
 
 
 This class seeks, in a single semester, to give Ph.D. students a thorough grounding in the foundations of contemporary cultural theory. Topics include classical political economy (Marx, Weber, Durkheim), Structuralism and Post-Structuralism (Levi-Strauss, Foucault, and Bourdieu), Gender and Sexuality, Theories of Knowledge (including discussions of the ethnographic method), as well as Globalization Theory and Nationalism. The primary goal of this fast-paced course is to lay a groundwork for further study. For this reason, particular attention will be paid to the intellectual context from which each of these works emerged. A secondary goal of the course is to develop critical reading skills. Through close readings of primary texts students will be encouraged to engage in internal critique, evaluating the texts in their own terms. Student evaluation will be based on weekly in-class presentations, an online reading journal (blog), and two formal debates to be held at midterm and finals. Auditors are welcome, but they must participate in all class activities, including presentations, reading journals, and debates.
