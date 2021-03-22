@@ -77,9 +77,3 @@ This course seeks to introduce graduate students to the basic concepts and metho
 ### Requirements and Credits
 * 授課時數: 3
 * 開課班級: 碩士班與博士班
-
-{% include instructor.markdown %}
-
-
-{% include grading-linguisticanthropology.markdown %}
-{% include cc.markdown %}
